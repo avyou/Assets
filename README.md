@@ -16,3 +16,12 @@ Django
 #### 工具截图：
 
 ![Alt text](https://raw.githubusercontent.com/avyou/Assets/master/document/a1.png)
+![Alt text](https://raw.githubusercontent.com/avyou/Assets/master/document/a2.png)
+![Alt text](https://raw.githubusercontent.com/avyou/Assets/master/document/a3.png)
+![Alt text](https://raw.githubusercontent.com/avyou/Assets/master/document/a4.png)
+![Alt text](https://raw.githubusercontent.com/avyou/Assets/master/document/a5.png)
+![Alt text](https://raw.githubusercontent.com/avyou/Assets/master/document/a6.png)
+![Alt text](https://raw.githubusercontent.com/avyou/Assets/master/document/a7.png)
+![Alt text](https://raw.githubusercontent.com/avyou/Assets/master/document/a8.png)
+![Alt text](https://raw.githubusercontent.com/avyou/Assets/master/document/a9.png)
+![Alt text](https://raw.githubusercontent.com/avyou/Assets/master/document/a10.png)
